@@ -54,7 +54,8 @@ This application can be easily deployed to platforms that support Gradio, such a
 
 ## Screenshot
 
-*(Add a screenshot of the running application here)*
+![image](https://github.com/user-attachments/assets/d7c570f2-d9a5-4d67-a97f-42061fb0b77c)
+
 
 ---
 
